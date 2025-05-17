@@ -1,3 +1,11 @@
+## NOTE
+
+This is a modified version of [catppuccin](https://github.com/catppuccin/obsidian) by [catppuccin](https://github.com/catppuccin), adapted by NeilYeTAT for personal/custom use.
+
+✅ Changes:
+
+- Hidden scrollbars in the theme for a cleaner and minimalist look.
+
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px" alt=""/>
@@ -15,16 +23,16 @@
   <img src="https://raw.githubusercontent.com/catppuccin/obsidian/main/assets/screenshot-hq.png" alt="Example of the Catppuccin theme for Obsidian"/>
 </p>
 
-+ [Previews](#previews)
-+ [About](#about)
-+ [Usage](#usage)
-    + [Obsidian theme store](#obsidian-theme-store)
-    + [Style Settings plugin installation and use](#style-settings-plugin-installation-and-use)
-+ [Problems?](#problems)
-+ [Contributing](#contributing)
-+ [Plugins](#plugins)
-+ [Development](#development)
-+ [💝 Thanks to](#-thanks-to)
+- [Previews](#previews)
+- [About](#about)
+- [Usage](#usage)
+  - [Obsidian theme store](#obsidian-theme-store)
+  - [Style Settings plugin installation and use](#style-settings-plugin-installation-and-use)
+- [Problems?](#problems)
+- [Contributing](#contributing)
+- [Plugins](#plugins)
+- [Development](#development)
+- [💝 Thanks to](#-thanks-to)
 
 ## Previews
 
@@ -117,14 +125,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Plugins
 
 The theme currently has limited CSS for a few plugins
-in [_plugins.scss](https://github.com/catppuccin/obsidian/blob/main/scss/vendors/_plugins.scss).
+in [\_plugins.scss](https://github.com/catppuccin/obsidian/blob/main/scss/vendors/_plugins.scss).
 These include:
 
-+ Another Quick Switcher
-+ Better Command Palette
-+ Obsidian Git
-+ Omnisearch
-+ MAKE.md
+- Another Quick Switcher
+- Better Command Palette
+- Obsidian Git
+- Omnisearch
+- MAKE.md
 
 ## Development
 
@@ -134,23 +142,22 @@ page for the latest news.
 
 ## 💝 Thanks to
 
-+ [mbeckrich](https://github.com/mbeckrich)
-+ [AnubisNekhet](https://github.com/anubisnekhet)
-+ [pitoniak32](https://github.com/pitoniak32)
-+ [hiimsergey](https://github.com/hiimsergey)
-+ [GabeVilela](https://github.com/GabeVilela)
-+ [Aidavdw](https://github.com/Aidavdw)
-+ [Andrea18500](https://github.com/Andrea18500)
-+ The talented and kindhearted people in the Obsidian discord's
+- [mbeckrich](https://github.com/mbeckrich)
+- [AnubisNekhet](https://github.com/anubisnekhet)
+- [pitoniak32](https://github.com/pitoniak32)
+- [hiimsergey](https://github.com/hiimsergey)
+- [GabeVilela](https://github.com/GabeVilela)
+- [Aidavdw](https://github.com/Aidavdw)
+- [Andrea18500](https://github.com/Andrea18500)
+- The talented and kindhearted people in the Obsidian discord's
   CSS channel. In particular:
-    + [Chetachi](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme/)
-    + [Kepano](https://github.com/kepano/obsidian-minimal)
-    + [mgmeyers](https://github.com/mgmeyers/obsidian-california-coast-theme)
-    + [jdanielmourao](https://github.com/jdanielmourao/obsidian-sanctum)
+  - [Chetachi](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme/)
+  - [Kepano](https://github.com/kepano/obsidian-minimal)
+  - [mgmeyers](https://github.com/mgmeyers/obsidian-california-coast-theme)
+  - [jdanielmourao](https://github.com/jdanielmourao/obsidian-sanctum)
 
 &nbsp;
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" alt="Cat sitting on gray line"/></p>
 <p align="center">Copyright &copy; 2021-present <a href="https://github.com/catppuccin" target="_blank">Catppuccin Org</a>
 <p align="center"><a href="https://github.com/catppuccin/catppuccin/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8" alt="MIT license"/></a></p>
-

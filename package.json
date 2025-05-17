@@ -1,23 +1,23 @@
 {
-  "name": "obsidian",
+  "name": "obsidian-catppuccin-y",
   "version": "1.0.0",
-  "description": "<h3 align=\"center\"> \t<img src=\"https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png\" width=\"100\" alt=\"Logo\"/><br/> \t<img src=\"https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png\" height=\"30\" width=\"0px\"/> \tCatppuccin for <a href=\"https://obsidian.md\">Obsidian</a> \t<img src=\"https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png\" height=\"30\" width=\"0px\"/> </h3>",
+  "description": "🌟 A personalized fork of Catppuccin theme for Obsidian by NeilYeTAT.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "sass scss/main.scss:dist/catppuccin.css"
+    "build": "sass scss/main.scss:dist/theme.css"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/catppuccin/obsidian.git"
+    "url": "https://github.com/NeilYeTAT/obsidian-catppuccin-y"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/catppuccin/obsidian/issues"
+    "url": "https://github.com/NeilYeTAT/obsidian-catppuccin-y/issues"
   },
-  "homepage": "https://github.com/catppuccin/obsidian#readme",
+  "homepage": "https://github.com/NeilYeTAT/obsidian-catppuccin-y#readme",
   "volta": {
     "node": "23.4.0",
     "npm": "10.9.2"
